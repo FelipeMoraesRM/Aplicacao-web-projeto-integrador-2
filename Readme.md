@@ -1,0 +1,1 @@
+Este é um protótipo da tela inicial de uma aplicação proposta para o projeto integrador de tecnologia da informação da UFMS. Futuramente, será aplicada a funcionalidade sugerida pela tela.
